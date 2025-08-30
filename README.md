@@ -1,3 +1,5 @@
+(Original Fork Network Left)
+
 # Covert Lifecycle Intrusion in iOS 18.6.2  
 **Memory-Resident Implants, Lockdown Abuse, and AWDL/Cloud Persistence**
 
